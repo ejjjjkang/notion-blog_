@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My Blog</title>
+    <subtitle>Blog</subtitle>
+    <link href="/atom" rel="self" type="application/rss+xml"/>
+    <link href="/" />
+    <updated>2020-07-12T10:44:32.613Z</updated>
+    <id>My Notion Blog</id>
+    <entry>
+      <id>/blog/chronicles2020summer</id>
+      <title>Chronicles: 2020 Summer</title>
+      <link href="/blog/chronicles2020summer"/>
+      <updated>2020-06-28T15:00:00.432Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Chronicles: 2020 Summer</p>
+          <p class="more">
+            <a href="/blog/chronicles2020summer">Read more</a>
+          </p>
+        </div>
+      </content>
+      <author><name>Eun Kang</name></author>
+    </entry>
+    <entry>
+      <id>/blog/simsimhada</id>
+      <title>Dandelion</title>
+      <link href="/blog/simsimhada"/>
+      <updated>2020-06-29T15:00:00.433Z</updated>
+      <content type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          <p class="more">
+            <a href="/blog/simsimhada">Read more</a>
+          </p>
+        </div>
+      </content>
+      <author><name>Eun Kang</name></author>
+    </entry>
+  </feed>
